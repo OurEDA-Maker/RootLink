@@ -2,6 +2,10 @@
 	margin:0px;
 	padding:0px;
 }
+body{
+	background:url("../images/background.jpg");
+}
+
 .container{
 	margin-top:100px;
 	height:400px;
