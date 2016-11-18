@@ -26,6 +26,14 @@
 	color:#666666;
 	font-style:italic;
 }
+.forgot{
+	float:right;
+	padding-right: 50px;
+	font-size: 10px;
+}
+.forgot a{
+	text-decoration: none;
+}
 .tail{
 	margin-top:50px;
 	text-align: right;
